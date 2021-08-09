@@ -8,7 +8,6 @@ aiorpcX==0.18.5
 aiosqlite==0.16.1
 ajpy==0.0.4
 alabaster==0.7.12
-alembic==1.4.3.dev0
 aniso8601==8.1.1
 apispec==3.3.1
 apispec-webframeworks==0.5.2
