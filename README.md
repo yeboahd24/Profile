@@ -1,4 +1,4 @@
 # Profile
 My profile
 
-<img src="profile.png/>
+<img src="profile.png"/>
